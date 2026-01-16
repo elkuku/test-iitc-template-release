@@ -18,5 +18,7 @@ Change the URI of **Your GitHub Page**
 
 `https://<OWNER>.github.io/<REPO>`
 
+https://elkuku.github.io/test-iitc-template-release/
+
 ----
 Made with :heart: and the [IITC Plugin Kit](https://github.com/McBen/IITCPluginKit)
