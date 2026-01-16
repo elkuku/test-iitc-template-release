@@ -1,11 +1,11 @@
 {
-  "name": "IITC plugin: TcTheme-<NAME>",
-  "id": "iitc_plugin_TcTheme_<NAME>",
+  "name": "IITC plugin: TcTheme-TestRelease",
+  "id": "iitc_plugin_TcTheme_TestRelease",
   "category": "Themes",
-  "description": "A theme for IITC",
-  "author": "<AUTHOR>",
+  "description": "A TestRelease theme for IITC",
+  "author": "elkuku",
   "entry": "src/Main.ts",
-  "downloadURL": "https://<OWNER>.github.io/<REPO>/files/release/<PLUGIN_ID>.user.js",
-  "displayName": "<DISPLAY_NAME>",
-  "previewUrl": "https://<OWNER>.github.io/<REPO>/preview.png"
+  "downloadURL": "https://elkuku.github.io/test-iitc-template-release/files/release/iitc_plugin_TcTheme_TestRelease.user.js",
+  "displayName": "Test Release",
+  "previewUrl": "https://elkuku.github.io/test-iitc-template-release/preview.png"
 }
