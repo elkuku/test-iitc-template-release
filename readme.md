@@ -12,6 +12,8 @@ To set it up please read the [setup guide](setup.md), then adjust this readme to
 
 ...
 
+...
+
 ## GitHub Page 
 
 Change the URI of **Your GitHub Page**
